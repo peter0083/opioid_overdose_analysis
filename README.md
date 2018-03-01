@@ -2,9 +2,11 @@
 BC Open Data Day Hackathon 2018
 
 ##Team Name
+
 *???*
 
 ##Team Members
+
 - [Akshi Chaudhary, Data Scientist/Analytics Professional](https://www.linkedin.com/in/akshi-chaudhary/)
 - [Jill Cates, Data Scientist/Full-Stack Web Developer](https://www.linkedin.com/in/jill-cates-44bb9147/)
 - [Peter Lin, Data Scientist/Pharmacist](https://www.linkedin.com/in/peterlinmds/)
@@ -16,6 +18,7 @@ Data sources:
 4. [Fraser Health ER data](https://github.com/healthhackathon) Thank you again Gillian! :smile:
 
 ## VODday-Hackathon-Submissions
+
 This is a sample submission repository for Open Data Hackathon Projects. You can [fork this repo](https://help.github.com/articles/fork-a-repo/) and use this as a starting point. You do not have send a pull request for this repo. This is just a sample of what your repo can look like when you submit it to us as part of the final process for the hackathon.
 
 
