@@ -34,7 +34,9 @@ BC Open Data Day Hackathon 2018
 3. [opioid overdose data from Kaggle](https://www.kaggle.com/apryor6/us-opiate-prescriptions/data)
 - provides opioid prescriber information such as credentials, specialty, and drug that was prescribed
 - provides statistics on opioid-related deaths for each state in the U.S.
-4. [Fraser Health ER data](https://github.com/healthhackathon) Thank you again Gillian! :smile:
+4. [Fraser Health ER data](https://github.com/healthhackathon/Overdose-Emergency-Department-data-YTD-2016) Thank you again Gillian! :smile:
+- provides (aggregated data) suspected opioid overdose and overall overdose events by community.
+- provides (aggregated data) Number of suspected overdoses by Fraser Health hospitals, overall and among those who were homeless.
 
 ### Prototype
 
