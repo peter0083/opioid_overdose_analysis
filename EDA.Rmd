@@ -1,0 +1,27 @@
+---
+title: "EDA"
+author: "Peter Lin"
+date: '2018-03-03'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Initial Exploration with data set
+
+```{r load dependencies}
+library(tidyverse)
+library(visdat)
+```
+```{r load data}
+opioid_us_df <- data.frame(read_csv("data/Accidental_Drug_Related_Deaths__2012-June_2017.csv"))
+```
+```{r summarize data}
+summary(opioid_us_df)
+```
+```{r EDA}
+vis_dat(opioid_us_df, sort_type = TRUE, palette = "default")
+```
+

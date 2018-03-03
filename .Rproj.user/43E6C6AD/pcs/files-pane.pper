@@ -1,0 +1,9 @@
+{
+    "path" : "~/opioid_overdose_analysis/data",
+    "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 2
+        }
+    ]
+}

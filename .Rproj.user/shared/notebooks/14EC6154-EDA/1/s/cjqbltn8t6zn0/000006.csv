@@ -1,0 +1,9 @@
+"0","opioid_us_df <- data.frame(read_csv(""data/Accidental_Drug_Related_Deaths__2012-June_2017.csv""))"
+"2","Parsed with column specification:
+cols(
+  .default = col_character(),
+  Age = col_integer()
+)
+"
+"2","See spec(...) for full column specifications.
+"

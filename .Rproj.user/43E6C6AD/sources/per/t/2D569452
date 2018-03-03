@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520104371092.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2D569452",
+    "lastKnownWriteTime" : -2278433962449698810,
+    "last_content_update" : 1520104371092,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "90563C6B",
+        "caption" : "opioid_us_df",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=opioid_us_df&cache_key=90563C6B",
+        "displayedObservations" : 3583,
+        "environment" : "",
+        "object" : "opioid_us_df",
+        "preview" : 0,
+        "totalObservations" : 3583,
+        "variables" : 32
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
