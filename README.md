@@ -1,6 +1,12 @@
 # opioid_overdose_analysis
 BC Open Data Day Hackathon 2018
 
+
+---- note on this project ----
+we ended up abandoning this project to work on Coral app with Team Oceanview
+---- end of note ----
+
+
 ### Team Name
 
 *???*
